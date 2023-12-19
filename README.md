@@ -9,7 +9,7 @@
 ## Key Vocab
 
 - **Command Line**: a text-based interface that is built into your computer's
-  operating system. It allows you to access the files and applications on your
+  operating system. It allows you to accesiuhighuhs the files and applications on your
   computer manually or through scripts.
 - **Terminal**: the application in Mac OS that allows you to access the command
   line.
